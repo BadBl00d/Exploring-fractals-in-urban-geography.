@@ -1,8 +1,8 @@
 # Exploring-fractals-in-urban-geography.
 
-## TIPE : This is the project I presented for the competitions at the French engineering schools called 'TIPE' during my second year of higher education. The theme for the year was the city. In this context, I aimed to delve into the exploration of applying fractals in modeling cities and understanding their practical implications for urban planning. Enjoy reading !
+🧠TIPE : This is the project I presented for the competitions at the French engineering schools called 'TIPE' during my second year of higher education. The theme for the year was the city. In this context, I aimed to delve into the exploration of applying fractals in modeling cities and understanding their practical implications for urban planning. Enjoy reading !
 
-## Introduction
+## 📚 Introduction
 
 Exploring fractals in urban geography. 🌐 Investigating the application of fractals in modeling cities and their practical implications for urban planning.
 
@@ -37,12 +37,12 @@ Exploring fractals in urban geography. 🌐 Investigating the application of fra
 - Section 4: Real-world applications and results.
 - Section 5: Challenges and future directions.
 
-## Highlights
+## 🏙 Highlights
 
 - Explores fractals in urban studies.
 - Applies algorithms to analyze city structures.
 - Practical insights for urban planning.
 - Future research opportunities.
 
-## Difficulties faced during this TIPE:
+## 💻 Difficulties faced during this TIPE:
 In addition to difficulties related to data transfer from one software to another, three types of problems are posed: the georeferencing problem, the problem of different resolutions of databases.
