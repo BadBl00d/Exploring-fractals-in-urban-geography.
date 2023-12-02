@@ -4,7 +4,7 @@ Since the 1960s, graph theory has been used to describe telecommunication networ
 
 For about three decades now, geographers have been intrigued by fractal geometry, following the pioneering work of Benoît Mandelbrot (1977). Numerous applications of fractals in our discipline have been explored, but no other area has been as extensively examined by fractal geographers as that of the city. Michael Batty and Paul Longley are arguably the first authors to delve into the applications of fractals in this field. In the mid-1980s, they began studying the fractality of urban structures with the aim of better simulating the growth of these entities (Batty and Longley, 1986). A few years later, Pierre Frankhauser published a more general synthesis of what could be expected from fractal geometry in urban geography (Frankhauser, 1991).
 
-2/ Fractals: Definition and Characteristics
+## Fractals: Definition and Characteristics
 
 Differentiable curves lack this property. Upon closer examination of a differentiable curve, after a few enlargements, the portion of the curve appears straight (in fact, it eventually coincides with its tangent near the point being observed).
 
@@ -20,7 +20,7 @@ Box-counting dimension: We assume that this is the simplest to calculate and com
 Description of the principle: counting boxes containing a black pixel and logarithmic linear regression.
 England's Coastline: Dc was already obtained ≃ 1.3 using the compass spacing dimension definition (described in the appendix).
 
-3/ The City as a Fractal
+## The City as a Fractal
 
 Indeed, the city as a whole exhibits a certain similarity with smaller parts of itself. In this sense, the urban fabric seems to consist of an interweaving of neighborhoods, blocks, buildings... By adopting a geometric approach, we can understand how cities are structured, grow, and evolve.
 
@@ -59,7 +59,7 @@ Algorithm: The dilation analysis transforms the structure by gradually making it
 
 However, preliminary investigations have shown that this method is less reliable. Indeed, the counting algorithm also takes into account the mass of black pixels that are added by dilating the original structure. Thus, the mass of occupied points tends to be overestimated. This phenomenon affects more the structures whose occupied mass is initially low, such as linear objects, because the relative error is then greater. The use of this method will therefore be limited to calculating fractal dimensions on surfaces.
 
-4/ Practical Application to the City of Paris
+## Practical Application to the City of Paris
 
 In the first instance, I focused on the study of continuous fabric. Thanks to the maps provided by Copernicus Land and a quick image processing, we can recreate a map of Paris and its suburbs. On the maps above, we can observe the fractal dimension as well as the extent of Paris and its suburbs at different times.
 
@@ -85,7 +85,7 @@ The results converge with the calculation carried out by the IAU IDF in the 6th 
 
 Knowing that the built density of an individual housing operation is around 0.3, that of the large complexes in La Courneuve is 0.75, and that of traditional "townhouses" is 1 (source: IAU).
 
-5/ Limitations and Perspectives
+## Limitations and Perspectives
 
 However, some limitations to this model can be mentioned:
 Dilatation: For this method, it is interesting to see how many steps are necessary for different types of fabrics to form a single aggregate with a well-defined border. This number will necessarily be different depending on whether we are in a historic city center or in a recent peripheral zone: it gives an indication of the size of the spaces between buildings. This indication will allow us to develop an initial classification of morphological differences in the tissues analyzed, relying on a measure that is not strictly speaking fractal.
