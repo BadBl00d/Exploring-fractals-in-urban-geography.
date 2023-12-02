@@ -1,6 +1,6 @@
 # Exploring-fractals-in-urban-geography.
 
-# TIPE : This is the project I presented for the competitions at the French engineering schools called 'TIPE' during my second year of higher education. The theme for the year was the city. In this context, I aimed to delve into the exploration of applying fractals in modeling cities and understanding their practical implications for urban planning. Enjoy reading !
+## TIPE : This is the project I presented for the competitions at the French engineering schools called 'TIPE' during my second year of higher education. The theme for the year was the city. In this context, I aimed to delve into the exploration of applying fractals in modeling cities and understanding their practical implications for urban planning. Enjoy reading !
 
 ## Introduction
 
