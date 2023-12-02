@@ -2,6 +2,8 @@
 
 🧠TIPE : This is the project I presented for the competitions at the French engineering schools called 'TIPE' during my second year of higher education. The theme for the year was the city. In this context, I aimed to delve into the exploration of applying fractals in modeling cities and understanding their practical implications for urban planning. Enjoy reading !
 
+Attached to the programs, you can find the templates I used and more information and formal definitions. 
+
 ## 📚 Introduction
 
 Exploring fractals in urban geography. 🌐 Investigating the application of fractals in modeling cities and their practical implications for urban planning.
