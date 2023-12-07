@@ -4,6 +4,7 @@
 
 Attached to the programs, you can find the templates I used and more information and formal definitions. 
 
+![](Paris.png)
 ## 📚 Introduction
 
 Exploring fractals in urban geography. 🌐 Investigating the application of fractals in modeling cities and their practical implications for urban planning.
